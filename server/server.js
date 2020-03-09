@@ -26,7 +26,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 /* Routes */
-app.use('/api/user', userRouter);
+// app.use('/api/user', userRouter);
 
 // ******** scraper interval  ********
 let interval1 = function() {

@@ -1,0 +1,98 @@
+[
+  {
+    "name": "fr",
+    "value": "1eo4NSepvyEkq2VQ8.AWXgnYrYLKGAowYiUlGwUIDS0DE.BeYoKs.ez.F5i.0.0.BeYoKy.AWUpk94V",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1591290289.594673,
+    "size": 81,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "presence",
+    "value": "EDvF3EtimeF1583514290EuserFA21B23156342733A2EstateFDutF1583514290316CEchF_7bCC",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": -1,
+    "size": 86,
+    "httpOnly": false,
+    "secure": true,
+    "session": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "xs",
+    "value": "40%3Ah400D94ukQP61A%3A2%3A1583514287%3A10122%3A2160",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1615050286.999035,
+    "size": 53,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "c_user",
+    "value": "100023156342733",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1615050286.998978,
+    "size": 21,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "spin",
+    "value": "r.1001802522_b.trunk_t.1583514288_s.1_v.2_",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1583604288.088115,
+    "size": 46,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "wd",
+    "value": "800x600",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1584119090,
+    "size": 9,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "datr",
+    "value": "rIJiXgxZtxqpUt_6ZZHXbinG",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1646586285.732965,
+    "size": 28,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None"
+  },
+  {
+    "name": "sb",
+    "value": "rIJiXjao2WAG2RIJZ9Q6mWOd",
+    "domain": ".facebook.com",
+    "path": "/",
+    "expires": 1646586287.99888,
+    "size": 26,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None"
+  }
+]

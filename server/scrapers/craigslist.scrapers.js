@@ -19,7 +19,7 @@ async function scrapers() {
     let sourceURL = document.querySelectorAll('a.result-image');
 
     let resultArray = [];
-    for (let i = 0; i < 20; i++) {
+    for (let i = 0; i < 100; i++) {
       let priceItem = price[i];
       let titleItem = title[i];
       let imageItem = image[i];

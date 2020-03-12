@@ -12,7 +12,7 @@ const userRouter = require('./routes/user.router');
 
 // ******** scraper source files ********
 const craigslistScrapers = require('./scrapers/craigslist.scrapers');
-const FBScrapers = require('./scrapers/fbMarketplace.scrapers');
+// const FBScrapers = require('./scrapers/fbMarketplace.scrapers');
 
 // Body parser middleware
 app.use(bodyParser.json());
@@ -41,12 +41,12 @@ let interval1 = function() {
   });
 
   //FB GET
-  FBScrapers().then(data => {
-    app.get('/FB/data', (req, res) => {
-      // console.log('GET facebook', data);
-      res.send(data);
-    });
-  });
+  // FBScrapers().then(data => {
+  //   app.get('/FB/data', (req, res) => {
+  //     // console.log('GET facebook', data);
+  //     res.send(data);
+  //   });
+  // });
 };
 
 interval1();
